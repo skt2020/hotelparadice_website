@@ -1,5 +1,5 @@
-# Hotel website Template
-Conceptualized and Designed user interface template for hotel website using HTML 5 and CSS 3.
+# Hotel website Template (Created in 2018)
+Conceptualized and Designed user interface template for hotel website using HTML 5 and CSS 3 without any library and framework.
 ## Screenshots
 ![hp](https://user-images.githubusercontent.com/44112240/150387026-cecfce33-c828-4dc3-8dc4-1f77d166cf0d.png)
 ![image](https://user-images.githubusercontent.com/44112240/150387112-cfd59038-37a6-4c66-b7ee-fd2bdb0f1516.png)
